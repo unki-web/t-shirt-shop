@@ -1,6 +1,6 @@
 # 👕 MONOCHROME — Premium T-Shirt Store
 
-> Минималистичный интернет-магазин премиальных футболок. Учебный проект по предмету «Проектный семинар с фреймворками JavaScript».
+> Минималистичный интернет-магазин премиальных футболок. проект по предмету «Проектный семинар с фреймворками JavaScript».
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-3.x-42b883?logo=vue.js)
 ![Status](https://img.shields.io/badge/status-in--development-yellow)
